@@ -1,0 +1,11 @@
+x = int(input('número: '))
+print(f'{x} x  1 = {x*1}\n'
+      f'{x} x  2 = {x*2}\n'
+      f'{x} x  3 = {x*3}\n'
+      f'{x} x  4 = {x*4}\n'
+      f'{x} x  5 = {x*5}\n'
+      f'{x} x  6 = {x*6}\n'
+      f'{x} x  7 = {x*7}\n'
+      f'{x} x  8 = {x*8}\n'
+      f'{x} x  9 = {x*9}\n'
+      f'{x} x 10 = {x*10}')
